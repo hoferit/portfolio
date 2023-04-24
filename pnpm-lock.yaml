@@ -7,6 +7,9 @@ dependencies:
   next:
     specifier: 13.3.0
     version: 13.3.0(@babel/core@7.21.4)(react-dom@18.2.0)(react@18.2.0)(sass@1.62.0)
+  preflight:
+    specifier: ^0.2.0
+    version: 0.2.0
   react:
     specifier: 18.2.0
     version: 18.2.0
@@ -5697,6 +5700,10 @@ packages:
       simple-get: 4.0.1
       tar-fs: 2.1.1
       tunnel-agent: 0.6.0
+    dev: false
+
+  /preflight@0.2.0:
+    resolution: {integrity: sha512-Q+5uMK7drrXUnqDESNog3NzrBgvOgau+Kmz82YkEzdtkKD7H/yQjFUvdfhhpjoKs0vBa8K66PFxugIQBchAQEw==}
     dev: false
 
   /prelude-ls@1.2.1:
