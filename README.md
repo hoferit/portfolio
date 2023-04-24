@@ -1,6 +1,6 @@
 ## Welcome to my Portfolio!
 
-This is the first project I did at *[upleveled.io](https://www.upleveled.io/)
+This is the first project I did at [upleveled.io](https://www.upleveled.io/)
 
 ## How was it made?
 
