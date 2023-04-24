@@ -16,21 +16,19 @@ function Portfolio() {
             <h1 data-cy="pageTitle" className="title">
               Portfolio
             </h1>
-            <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
-            </p>
+            <p className="description">Projects I was involved with</p>
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
                 <img src="/chitchat.png" className="portfolio-image" alt="" />
 
-                <h4 className="portfolio-name">Chat App Exploration</h4>
+                <h4 className="portfolio-name">City Exploration</h4>
                 <div className="portfolio-category">Mobile Dev</div>
               </div>
               <div className="portfolio-item">
                 <img src="/kajian.jpg" className="portfolio-image" alt="" />
 
-                <h4 className="portfolio-name">kajian App</h4>
+                <h4 className="portfolio-name">Pizza App</h4>
                 <div className="portfolio-category">Mobile Dev</div>
               </div>
             </div>
